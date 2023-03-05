@@ -2,7 +2,7 @@
 #### I am a lifelong learner
 In  AI we trust
 
-Skills: HTML, CSS, Ubuntu, Nginx 
+Skills: HTML, CSS, Ubuntu, Nginx, Homeassistant
 
 - 🔭 I’m currently working on this page potreballiance.ru 
 - 🌱 I’m currently learning JS, Node.js, MongoDB, Ubuntu, Nginx, Homeassistant
